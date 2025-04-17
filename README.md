@@ -57,7 +57,7 @@
 ### ▶️ Running the App
 
 ```bash
-streamlit run medichain.py
+streamlit run symptoms_checker.py
 ```
 
 Replace `app.py` with your main Python file name if different.
@@ -74,7 +74,7 @@ MediChain/
 │   ├── drugs_side_effects.csv
 │   └── disease_precaution.csv
 │
-├── medichain.py
+├── symptoms_checker.py
 ├── requirements.txt
 └── README.md
 ```
