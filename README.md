@@ -35,7 +35,7 @@
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/MediChain.git
+   git clone https://github.com/ArashadAli/MediChain-AI.git
    cd MediChain
    ```
 
