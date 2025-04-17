@@ -36,7 +36,7 @@
 
    ```bash
    git clone https://github.com/ArashadAli/MediChain-AI.git
-   cd MediChain
+   cd MediChain-AI
    ```
 
 2. **Install dependencies:**
